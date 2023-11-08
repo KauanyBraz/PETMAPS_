@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "156479223638",
+    "project_id": "pets-d47fc",
+    "storage_bucket": "pets-d47fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156479223638:android:5ee7de7119b0f5e1e208f7",
+        "android_client_info": {
+          "package_name": "pet.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156479223638-1cbcu9del3kdojg95frtfp3jh09lq479.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pet.maps",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "156479223638-341jkbls0am3ce1tn6llkeug47tam8gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKUZAH41ZjF6oY1uJhYl3u54UB0Um9QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156479223638-341jkbls0am3ce1tn6llkeug47tam8gt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156479223638-r1s2phda5dnbo0l0pu157sn3cek2e8ib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pet.maps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
